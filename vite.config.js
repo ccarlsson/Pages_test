@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Pages_test/',
+  base: process.env.GITHUB_ACTIONS ? '/Pages_test/' : '/',
   plugins: [vue()],
 })
 
