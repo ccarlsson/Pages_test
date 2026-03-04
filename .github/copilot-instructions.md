@@ -20,5 +20,5 @@ This is a Vite + Vue 3 project.
 - [x] Install Required Extensions
 - [x] Compile the Project
 - [x] Create and Run Task
-- [ ] Launch the Project
+- [x] Launch the Project
 - [x] Ensure Documentation is Complete
