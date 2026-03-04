@@ -6,3 +6,4 @@ export default defineConfig({
   base: '/Pages_test/',
   plugins: [vue()],
 })
+
